@@ -1,0 +1,25 @@
+DynaMiFLiC v1.0
+Copyryght (c) 2012 - slacknux <slacknux@gmail.com>
+http://www.slacknux.net
+
+
+DynaMiFLiC (Dynamic, Minimal, Fast, Light, Cool) is a blogging CMS written in python (>=2.6) with a command line client and a text files database.
+
+
+===Installation===
+1. Launch client.py in the client directory and fill out all required fields
+2. Config and config.py files will be created in the client and server/cgi-bin directories.
+3. Upload the whole server directory's content on your server
+
+
+=====Features=====
+1. Create new articles
+2. Edit articles
+3. Edit comments
+4. Remove articles
+5. Remove comments
+6. Download the database
+7. Error log
+8. Command history
+9. Autocomplete
+10. BBCode syntax support
